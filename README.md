@@ -1,4 +1,5 @@
 # VBA Homework
+VBA scripting to analyze stocks
 
 ## Background
 
