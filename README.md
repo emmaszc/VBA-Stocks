@@ -2,7 +2,7 @@
 
 ## Background
 
-This project uses VBA scripting to analyze stock market data and complete the following tasks:
+This project uses VBA scripting to analyze stock market data.
 
 The script loops through all the stocks for one year and outputs: 
 
